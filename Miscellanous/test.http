@@ -1,0 +1,8 @@
+### Get request to localhost root
+GET http://localhost:8000/register
+
+### Get request with parameter
+POST http://localhost:8000/register
+{
+    
+}

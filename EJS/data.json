@@ -1,0 +1,172 @@
+{
+  "cats": {
+    "name": "CuteCats",
+    "followers": 1200,
+    "following": 300,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_1280.jpg",
+        "likes": 540,
+        "comments": ["So cute!", "Adorable!", "I love cats 🐱"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736885_1280.jpg",
+        "likes": 780,
+        "comments": ["Wow!", "Fluffy 😍", "Cute paws"]
+      }
+    ]
+  },
+  "dogs": {
+    "name": "HappyDogs",
+    "followers": 2500,
+    "following": 400,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2016/02/19/10/00/dog-1209621_1280.jpg",
+        "likes": 890,
+        "comments": ["Good boy!", "Lovely dog!", "🐶❤️"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/03/26/09/41/dog-690176_1280.jpg",
+        "likes": 1020,
+        "comments": ["So playful!", "Cute ears!", "Doggo 🐕"]
+      }
+    ]
+  },
+  "pandas": {
+    "name": "ChillPandas",
+    "followers": 3300,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/01/06/19/15/panda-1959231_1280.jpg",
+        "likes": 1500,
+        "comments": ["Panda love ❤️", "So fluffy!", "Bamboo time!"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/09/18/11/36/panda-944868_1280.jpg",
+        "likes": 2100,
+        "comments": ["Chill mode 🐼", "Lazy but cute!", "Adorable panda!"]
+      }
+    ]
+  },
+  "lions": {
+    "name": "KingLions",
+    "followers": 4100,
+    "following": 220,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/03/23/12/06/lion-2166047_1280.jpg",
+        "likes": 2000,
+        "comments": ["Majestic!", "The king 🦁", "Strong and brave!"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/12/54/lion-1868088_1280.jpg",
+        "likes": 2600,
+        "comments": ["Powerful!", "Handsome lion", "Pride vibes"]
+      }
+    ]
+  },
+  "tigers": {
+    "name": "WildTigers",
+    "followers": 3700,
+    "following": 180,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/02/20/18/03/tiger-2083492_1280.jpg",
+        "likes": 2200,
+        "comments": ["Ferocious!", "Tiger king 🐯", "Beautiful stripes"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/10/12/15/01/tiger-984573_1280.jpg",
+        "likes": 2900,
+        "comments": ["So strong!", "Royal tiger", "Fearless predator"]
+      }
+    ]
+  },
+  "elephants": {
+    "name": "GentleElephants",
+    "followers": 4800,
+    "following": 300,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/09/25/13/12/elephant-2781091_1280.jpg",
+        "likes": 3100,
+        "comments": ["Gentle giant 🐘", "So cute!", "Amazing creature"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/11/51/elephant-1869425_1280.jpg",
+        "likes": 3500,
+        "comments": ["Strong yet gentle", "Family bond", "Love elephants!"]
+      }
+    ]
+  },
+  "horses": {
+    "name": "GracefulHorses",
+    "followers": 2800,
+    "following": 140,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/09/02/13/24/horse-918584_1280.jpg",
+        "likes": 1500,
+        "comments": ["So graceful 🐎", "Majestic horse", "Powerful ride"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/10/07/horse-1867099_1280.jpg",
+        "likes": 1900,
+        "comments": ["Wild and free", "Beautiful mane", "Horse power!"]
+      }
+    ]
+  },
+  "penguins": {
+    "name": "CoolPenguins",
+    "followers": 3200,
+    "following": 200,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/03/27/14/56/penguin-2183651_1280.jpg",
+        "likes": 1700,
+        "comments": ["So cool 🐧", "Cute penguins!", "Love them"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/penguin-1863412_1280.jpg",
+        "likes": 2100,
+        "comments": ["Funny walk 😂", "Adorable", "Penguin family!"]
+      }
+    ]
+  },
+  "giraffes": {
+    "name": "TallGiraffes",
+    "followers": 2600,
+    "following": 160,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2017/04/05/01/14/giraffe-2201703_1280.jpg",
+        "likes": 1300,
+        "comments": ["So tall 🦒", "Long neck beauty", "Elegant giraffe"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2014/12/15/13/40/giraffe-569129_1280.jpg",
+        "likes": 1600,
+        "comments": ["Adorable giraffe", "Peaceful vibe", "Beautiful spots"]
+      }
+    ]
+  },
+  "foxes": {
+    "name": "CleverFoxes",
+    "followers": 2300,
+    "following": 120,
+    "posts": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2014/11/30/14/11/fox-551833_1280.jpg",
+        "likes": 1250,
+        "comments": ["So clever 🦊", "Beautiful fox", "Amazing fur"]
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2018/03/30/19/48/fox-3273766_1280.jpg",
+        "likes": 1500,
+        "comments": ["Sneaky but cute!", "Lovely creature", "Fox vibes"]
+      }
+    ]
+  }
+}

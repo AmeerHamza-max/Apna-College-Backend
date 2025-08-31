@@ -1,0 +1,25 @@
+<%- include("includes/head.ejs") %>
+<body>
+  <h1>Welcome to <%= data.name %>'s Instagram page!</h1>
+  <button>Follow</button>
+  <button>Message</button>
+  <p>
+    Followers: <%= data.followers %> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Following: <%= data.following %>
+  </p>
+  <hr>
+
+  <% for (let post of data.posts) { %>
+    <div>
+      <img src="<%= post.image %>" alt="some image" width="300">
+      <p>
+        Likes: <%= post.likes %> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Comments: <%= post.comments %>
+      </p>
+    </div>
+  <% } %>
+
+  <!-- Example for showing follower list -->
+  
+</body>
+</html>
